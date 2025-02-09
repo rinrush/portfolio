@@ -2,10 +2,16 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background-image: url(https://the-tomorrow-children.com/user/pages/01.home/02._video/tv-frame.1280.png), url(https://i.gifer.com/I3uR.gif) ;
+    background-size: cover;
+}
+
 #window {
     border: solid;
     border-color: red;
     width: 50%;
+    background-color: white;
 }
 #outer {
     border: solid;
