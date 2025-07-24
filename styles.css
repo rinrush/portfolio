@@ -15,8 +15,8 @@ body {
 #window {
     border: solid;
     border-color: black;
-    width: 70%;
-    height: 70%;
+    width: 55%;
+    height: 55%;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -61,7 +61,7 @@ body {
     object-fit: cover;
 }
 
-a {
+p {
     text-decoration: none;
     color: black;
     font-family: "VT323", serif;

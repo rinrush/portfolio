@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://the-tomorrow-children.com/user/pages/01.home/02._video/tv-frame.1280.png), url(../pics/scanlines.gif) , url(https://cdn.makecode.com/blob/3ff8d3740178849f5c5f14f5c1a0ffcc5ab7af85/static/concepts/star-field/star-field-background.gif);
+    background-size: cover;
+}
+
+#outer {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text {
+    width: 55%;
+}
+
+p {
+    font-family: "Press Start 2P", monospace;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+#back {
+    width: 5em;
+    height: 5em;
+    align-self: flex-start;
+    position: fixed;
+    top: 7%;
+    left: 7%;
+}
